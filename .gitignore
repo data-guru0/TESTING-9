@@ -2,3 +2,7 @@ venv/
 logs/
 key.json
 MLOPS_PROJECT_5.egg-info/
+kubectl
+kubectl.sha256
+.Jenkinsfile.swp
+.Jenkinsfile.swo
